@@ -54,3 +54,7 @@ Screenshot of the dictionary in use
 - Replacing cover picture, description, author or title if unavailable from the API: [Milos Rancic's solution on StackOverflow](https://stackoverflow.com/a/55696135)
 - Trigger the search button if Enter key is pressed: [Sergey Ilinsky's solution (edited by icedwater) on StackOverflow](https://stackoverflow.com/a/155272)
 - Trigger a modal only if there's no input value: [Claudio Redi's solution (edited by unknown user) on StackOverflow](https://stackoverflow.com/a/11404777)
+
+## Contributors
+- [Ioana Iosub](https://github.com/IIosub) - Free Dictionary API, HTML, CSS and some Bootstrap
+- [Aleisha Rhys](https://github.com/aleisharhys) - HTML and CSS
